@@ -3,13 +3,13 @@ A requirement analysis for a Navisat Telematics logistics automation system is a
 
 **Customer Story:**
 
-Navisat is a renowned tracking company that prides itself on delivering world-class tracking solutions to its customers. With a strong commitment to excellence, we are constantly striving to enhance our services to meet the evolving needs of our clients. In this pursuit, we are excited to introduce a new system designed to revolutionize the way we verify service level agreements (SLAs) at various checkpoints along the journey of freight from pickup to delivery.
+Navisat is a renowned tracking company that prides itself on delivering world-class tracking solutions to its customers. With a strong commitment to excellence, we are constantly striving to enhance our services to meet the evolving needs of our clients. In this pursuit, we are excited to introduce a new system designed to revolutionize the way we verify estimated times of arrival (ETAs) at various checkpoints along the journey of freight from pickup to delivery.
 
-As a leading provider of tracking solutions, we understand the critical importance of ensuring timely and reliable delivery of goods to our customers. We also appreciate the challenges faced by freight drivers in meeting these stringent timelines. To address these challenges and further improve the customer experience, Navisat is embarking on a mission to implement a robust system that offers unmatched SLA verification.
+As a leading provider of tracking solutions, we understand the critical importance of ensuring timely and reliable delivery of goods to our customers. We also appreciate the challenges faced by freight drivers in meeting these stringent timelines. To address these challenges and further improve the customer experience, Navisat is embarking on a mission to implement a robust system that offers unmatched ETA verification.
 
-**stakeholders** for the implementation of the SLA verification system at Navisat:
+**stakeholders** for the implementation of the ETA verification system:
 
-**Customers:** Our primary stakeholders are the customers who will use the system to track their shipments and monitor SLAs. They have a vested interest in the system's effectiveness and user-friendliness.
+**Customers:** the primary stakeholders are the customers who will use the system to track their shipments and monitor ETAs. They have a vested interest in the system's effectiveness and user-friendliness.
 
 **Navisat Management:** The executive team and management at Navisat have a direct interest in the successful implementation of the system and will be responsible for the overall success and return on investment.
 
@@ -56,7 +56,7 @@ Will engage with these stakeholders throughout the project to gather their input
    - Data should include GPS coordinates, timestamps, vehicle condition, and freight status.
    - Ensure data integrity and security, as well as compliance with data protection regulations.
 
-**3. SLA Estimation:**
+**3. ETA Estimation:**
    - The system should estimate the time it will take to reach each checkpoint based on historical data, route information, and other relevant factors.
    - The estimation should be continuously updated as the journey progresses.
 
@@ -77,7 +77,7 @@ Will engage with these stakeholders throughout the project to gather their input
    - Escalations should be sent to relevant personnel or departments for quick resolution.
 
 **8. Reporting and Analytics:**
-   - Generate reports on SLA compliance, driver performance, and vehicle condition.
+   - Generate reports on ETAs compliance, driver performance, and vehicle condition.
    - Provide analytical tools for identifying trends, patterns, and areas for improvement.
 
 **9. Integration with Existing Systems:**
@@ -95,4 +95,4 @@ Will engage with these stakeholders throughout the project to gather their input
 **13. Continuous Improvement:**
    - Commit to ongoing development and improvement of the system based on user feedback and emerging industry trends.
 
-Navisat's new SLA verification system aims to set a new standard in the industry, ensuring that freight deliveries are efficient, reliable, and transparent. We look forward to delivering this cutting-edge solution to enhance the experience for both our customers and their end clients.
+Navisat's new ETA verification system aims to set a new standard in the industry, ensuring that freight deliveries are efficient, reliable, and transparent. We look forward to delivering this cutting-edge solution to enhance the experience for both our customers and their end clients.
