@@ -1,5 +1,5 @@
 # Navisat Telematics
-A requirement analysis for a Navisat Telematics logistics automation system is as the first step in the software development process. It involves gathering and documenting the needs and expectations of stakeholders to ensure that the system meets their goals and objectives. Below is the requirement analysis for the logistics automation system:
+A requirement analysis for a Navisat Telematics logistics automation system step-1 in the software development process. It involves gathering and documenting the needs and expectations of stakeholders to ensure that the system meets their goals and objectives. Below is the requirement analysis for the logistics automation system:
 
 **Customer Story:**
 
